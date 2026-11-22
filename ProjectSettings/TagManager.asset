@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interaction
+  - Wood
+  - Stone
+  - Coin
+  - Boundaries
+  - Board
+  - CutPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interact
+  - Water
+  - UI
+  - Player
+  - Tree
+  - Rock
+  - CameraBoundaries
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 4071830735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 1744006845
+    locked: 0
